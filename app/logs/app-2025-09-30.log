@@ -1,0 +1,23 @@
+[2025-09-30 15:56:10] info: Nova requisição {"url":"database-test\/","method":"GET","ip":"::1"}
+[2025-09-30 15:56:10] debug: Roteamento {"controller":"Database-testController","action":"index","params":[]}
+[2025-09-30 15:56:10] warning: Controller não encontrado {"controller":"Database-testController"}
+[2025-09-30 15:56:13] info: Nova requisição {"url":"","method":"GET","ip":"::1"}
+[2025-09-30 15:56:13] debug: Roteamento {"controller":"HomeController","action":"index","params":[]}
+[2025-09-30 15:56:13] info: Requisição processada com sucesso {"controller":"HomeController","action":"index"}
+[2025-09-30 15:56:25] info: Nova requisição {"url":"teste","method":"GET","ip":"::1"}
+[2025-09-30 15:56:25] debug: Roteamento {"controller":"TesteController","action":"index","params":[]}
+[2025-09-30 15:56:25] warning: Controller não encontrado {"controller":"TesteController"}
+[2025-09-30 15:56:29] info: Nova requisição {"url":"test","method":"GET","ip":"::1"}
+[2025-09-30 15:56:29] debug: Roteamento {"controller":"TestController","action":"index","params":[]}
+[2025-09-30 15:56:29] info: Requisição processada com sucesso {"controller":"TestController","action":"index"}
+[2025-09-30 15:56:36] info: Nova requisição {"url":"test\/json","method":"GET","ip":"::1"}
+[2025-09-30 15:56:36] debug: Roteamento {"controller":"TestController","action":"json","params":[]}
+[2025-09-30 15:56:48] info: Nova requisição {"url":"test\/database","method":"GET","ip":"::1"}
+[2025-09-30 15:56:48] debug: Roteamento {"controller":"TestController","action":"database","params":[]}
+[2025-09-30 15:56:49] info: Conexão com banco de dados estabelecida {"driver":"pgsql","host":"34.151.218.50","database":"bioclinica_teste"}
+[2025-09-30 15:56:59] info: Nova requisição {"url":"","method":"GET","ip":"::1"}
+[2025-09-30 15:56:59] debug: Roteamento {"controller":"HomeController","action":"index","params":[]}
+[2025-09-30 15:56:59] info: Requisição processada com sucesso {"controller":"HomeController","action":"index"}
+[2025-09-30 16:15:42] info: Nova requisição {"url":"","method":"GET","ip":"::1"}
+[2025-09-30 16:15:42] debug: Roteamento {"controller":"HomeController","action":"index","params":[]}
+[2025-09-30 16:15:42] info: Requisição processada com sucesso {"controller":"HomeController","action":"index"}
