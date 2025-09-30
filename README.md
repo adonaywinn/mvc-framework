@@ -207,7 +207,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👥 Autores
 
-- **Seu Nome** - *Desenvolvimento inicial* - [GitHub](https://github.com/seu-usuario)
+- **Adonay Nascimento** - *Desenvolvimento inicial* - [GitHub](https://github.com/adonaywinn)
 
 ## 🙏 Agradecimentos
 
@@ -218,9 +218,10 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ## 📞 Suporte
 
 - 📧 Email: seu-email@exemplo.com
-- 🐛 Issues: [GitHub Issues](https://github.com/seu-usuario/mvc-framework/issues)
-- 📖 Wiki: [GitHub Wiki](https://github.com/seu-usuario/mvc-framework/wiki)
+- 🐛 Issues: [GitHub Issues](https://github.com/adonaywinn/mvc-framework/issues)
+- 📖 Wiki: [GitHub Wiki](https://github.com/adonaywinn/mvc-framework/wiki)
 
 ---
+
 
 **Desenvolvido com ❤️ usando PHP puro**
